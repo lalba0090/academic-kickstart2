@@ -8,33 +8,25 @@ date = 2016-04-20T00:00:00
 weight = 5
 
 # List your academic interests.
-[interests]
+[research interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "School Violence Prevention",
+    "Social Justice Issues in School Psychology",
+    "Impact of Environmental Stressors on Academic and Behavioral Outcomes",
+    "Culturally Responsive Socio-emotional Interventions",
+    "Alternative Discipline Programs",
   ]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+[[Lab Mission]]
+  course = "A student-driven lab that aims to make visible the issues of social justice and school violence in education"
 
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+   course = "Provide UCR School Psychology students with knowledge, resources, and open dialogue regarding social justice issues in education."
+  
+  course = "Research best practices for school violence prevention, including restorative justice practices and alternative discipline programs." 
+  course= "Mobilize efforts to improve social justice issues for K-12 students within local school districts through consultation and research."
+  course= "Advocate for the improvement and expansion of school-based violence prevention efforts"
  
 +++
 
-# Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
